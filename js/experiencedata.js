@@ -21,8 +21,8 @@ var data_overseas = [
  ];
 
 var data_teaching = [
-{"name": "", "affiliation": "", "month": "", "year": "", "endperiod": "", "period":"", "title": "Coming soon or see my resume", "summary": "", "comment":"", "type": "", "url": ""},
+{"name": "", "affiliation": "", "month": "", "year": "", "endperiod": "", "period":"", "title": "Coming soon", "summary": "", "comment":"", "type": "", "url": ""},
 ];
 var data_excrcact = [
-{"name": "", "affiliation": "", "month": "", "year": "", "endperiod": "", "period":"", "title": "Coming soon or see my resume", "summary": "", "comment":"", "type": "", "url": ""},
+{"name": "", "affiliation": "", "month": "", "year": "", "endperiod": "", "period":"", "title": "Coming soon", "summary": "", "comment":"", "type": "", "url": ""},
 ];

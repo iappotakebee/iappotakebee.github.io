@@ -20,7 +20,7 @@ function construstBio(experienceData) {
       tmp_period = tmp_period+", "+arr.comment;
     }
     return { 
-      name: arr.name, affiliation: arr.affiliation, period: tmp_period, title: arr.title, summary: arr.summary, type: arr.type, url: arr.url
+      name: arr.name, affiliation: arr.affiliation, period: tmp_period+",", title: arr.title, summary: arr.summary, type: arr.type, url: arr.url
     };
 
   });
