@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=360">
+    <meta name="description" content="Take's website (Takenori SHIMAMURA) | Contact and links">
+    <meta name="keywords" content="東京大学,研究,島村勇徳,しまむらたけのり,Takenori SHIMAMURA, The University of Tokyo">
+    <title>Takenori SHIMAMURA (Take)</title>
+    <link rel="stylesheet" href="css/main.css?1542599248160">
+    <link rel="icon" href="img/favicon.ico">
+
+    <!-- OGP -->
+    <!-- <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@ut10min">
+    <meta name="twitter:creator" content="@ut10min">
+    <meta name="twitter:title" content="2021年度五月祭「10分で伝えます！東大研究最前線」 - 講演一覧">
+    <meta name="twitter:description" content="2021年度東京大学五月祭企画「10分で伝えます！東大研究最前線」のウェブページです。最先端の研究について10分間で分かりやすくお伝えします。">
+    <meta name="twitter:image" content="https://ut-10min.github.io/mf94/img/logo_mf94.png"> -->
+    <meta property="og:title" content="Take's website (Takenori SHIMAMURA) | Contact and links">
+    <meta property="og:url" content="https://iappotakebee.github.io/awards.html">
+    <meta property="og:image" content="https://iappotakebee.github.io/img/logo.png">
+    <meta property="og:site_name" content="Take's website (Takenori SHIMAMURA)">
+
+    <!-- jQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+
+    <!-- Mustache -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mustache.js/2.3.0/mustache.min.js"></script>
+
+    <!-- data -->
+    <script src="js/data.js?202107141220"></script>
+    <script src="js/timedata.js?202109182032"></script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8XWBV5SP1S"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-8XWBV5SP1S');
+</script>
+
+<!-- user script -->
+<script src="js/timetable.js?202107141517"></script>
+<script id="template" type="x-tmpl-mustache">
+<a id="{{tag}}"></a>
+<h2>{{header}}</h2>
+<table class=time-table>
+{{#table}}
+<tr>
+<td class=idx>{{idx}} </td>
+<td class=time>&nbsp {{month}}<br>{{endperiod}} </td>
+<td class=title>{{title}}<a href="{{url}}" target="_blank" rel="noopener noreferrer">{{title_link}}</a><br>{{comment}}</td>
+<td class=name>{{affiliation}} {{type}}</td>
+</tr>
+{{/table}}
+</table>
+    </script>
+  </head>
+  <body>
+    <div class="fixed-nav">
+      <div class="fixed-nav-inner">
+        <a href="index.html">Overview</a> 
+        <a href="publications.html">Research/Publications</a>
+        <a href="talks.html">Talks/Outreach</a>
+        <a href="awards.html" class="active">Awards/Grants</a>
+        <a href="experience.html">Experience</a>
+      </div>
+    </div>
+    <div class="container">
+      <div class="full-article" id="article-access">
+        <h4>Outline</h4>
+        <ol>
+          <li><a href="#Award">Awards and honors</a></li>
+          <li><a href="#ResGrn">Research grants</a></li>
+          <li><a href="#SRExpL">Synchrotron radiation experiment proposals as a project leader</a></li>
+          <li><a href="#SRExpM">Synchrotron radiation experiment proposals as a project member</a></li>
+          <li><a href="#ResFll">Research fellowships</a></li>
+          <li><a href="#Schlrs">Scholarships etc.</a></li>
+        </ol>
+      </div>
+      <div class="full-article" id="article-timetable-intro">
+        <p>Here is a list of my ongoing responsibility so that I will push myself - <i>noblesse oblige</i>.</p>
+        <div class="article-headline">
+          <h3>Coming soon.</h3>
+        </div>
+      </div>
+      <div class="full-article" id="article-credit">
+        <p> This website refers to and imitates the website of <a href="https://ut-10min.github.io" target="_blank" rel="noopener noreferrer" ><i>UTokyo 10-minute lightning talks of research frontier</i></a>, where I communicated the impact of X-ray optics to ordinary citizens and administrated its website.
+        </p>
+      </div>
+    </div>
+  </body>
+</html>
+
