@@ -419,11 +419,11 @@ body {
     width: 110px;
     }
   .time-table td.title {
-    min-width: 250px;
+    min-width: 100px;
     vertical-align: top;
     padding-left: 10px; }
   .time-table td.name {
-    min-width: 180px;
+    min-width: 100px;
     vertical-align: top;
     padding-left: 10px; }
 
