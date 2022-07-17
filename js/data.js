@@ -105,11 +105,11 @@ var data_resgrnt = [
 ];
 
 var data_synchroradleader = [
-{"name": "SP82021B", "affiliation": "BL25SU-A, SPring-8, Japan", "month": "October", "year": "2021", "endperiod": " - February 2022", "title": "Budding Researchers Support Proposal (Proposal No. 2021B1836)", "summary": "", "period": "", "amount": "", "comment":"96 hours (12 slots) with financial supports for domestic travel, accommodation, and consumables", "type": "", "url": ""},
+{"name": "SP82021B", "affiliation": "BL25SU-A, SPring-8, Japan", "month": "October", "year": "2021", "endperiod": " - February 2022", "title": "Budding Researchers Support Proposal (Proposal No. 2021B1836)", "summary": "", "period": "", "amount": "", "comment":"96 hours (12 slots) with financial supports for domestic travel, accommodation, and consumables", "type": "", "url": "https://user.spring8.or.jp/ui/wp-content/uploads/sp8_2021b_performed_e.pdf"},
 
-{"name": "SP82021A", "affiliation": "BL25SU-A, SPring-8, Japan", "month": "April", "year": "2021", "endperiod": " - July 2021", "title": "Budding Researchers Support Proposal (Proposal No. 2021A1612)", "summary": "", "period": "", "amount": "", "comment":"96 hours (12 slots) with financial supports for domestic travel, accommodation, and consumables", "type": "", "url": ""},
+{"name": "SP82021A", "affiliation": "BL25SU-A, SPring-8, Japan", "month": "April", "year": "2021", "endperiod": " - July 2021", "title": "Budding Researchers Support Proposal (Proposal No. 2021A1612)", "summary": "", "period": "", "amount": "", "comment":"96 hours (12 slots) with financial supports for domestic travel, accommodation, and consumables", "type": "", "url": "https://user.spring8.or.jp/ui/wp-content/uploads/sp8_2021a_performed_e.pdf"},
 
-{"name": "SP82020A", "affiliation": "BL25SU-A, SPring-8, Japan", "month": "October", "year": "2020", "endperiod": " - February 2021", "title": "Budding Researchers Support Proposal (Proposal No. 2020A1694)", "summary": "", "period": "", "amount": "", "comment":"96 hours (12 slots) with financial supports for domestic travel, accommodation, and consumables", "type": "", "url": ""},
+{"name": "SP82020A", "affiliation": "BL25SU-A, SPring-8, Japan", "month": "October", "year": "2020", "endperiod": " - February 2021", "title": "Budding Researchers Support Proposal (Proposal No. 2020A1694)", "summary": "", "period": "", "amount": "", "comment":"96 hours (12 slots) with financial supports for domestic travel, accommodation, and consumables", "type": "", "url": "http://www.spring8.or.jp/en/users/proposals/list/2020A_adop/bud_res_sup_20a/"},
 ];
 
 var data_synchroradmember = [
