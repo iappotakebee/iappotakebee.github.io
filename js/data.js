@@ -161,7 +161,7 @@ var data_scholarships = [
 
 {"name": "GLP2017", "affiliation": "The University of Tokyo, Japan", "month": "May", "year": "2017", "endperiod": "", "title": "UTokyo Global Leader Development Scholarship", "summary": "", "period": "", "amount": "0.33M JPY", "comment":"", "type": "", "url": ""},
 
-{"name": "FUTI2017", "affiliation": "Friends of UTokyo inc., NY, United States", "month": "April", "year": "2017", "endperiod": "", "title": "2017 Summer Program Awards for Students in Japan", "summary": "", "period": "", "amount": "4000 USD", "comment":"", "type": "", "url": ""},
+{"name": "FUTI2017", "affiliation": "Friends of UTokyo inc., NY, United States", "month": "April", "year": "2017", "endperiod": "", "title": "2017 Summer Program Awards for Students in Japan", "summary": "", "period": "", "amount": "4000 USD", "comment":"", "type": "", "url": "https://www.friendsofutokyo.org/sustainable-financing-investment-harvard-university/"},
 
 {"name": "GLP2016", "affiliation": "The University of Tokyo, Japan", "month": "September", "year": "2016", "endperiod": "", "title": "UTokyo Global Leader Development Scholarship", "summary": "", "period": "", "amount": "0.5M JPY", "comment":"", "type": "", "url": ""},
 
