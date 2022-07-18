@@ -328,13 +328,31 @@ body {
       margin: 0 10px;
     }
     #article-inquiry #pictures img {
-      width: 100%;
+      max-width: 100%;
+      height: auto;
     }
+    /*
     @media screen and (max-width: 639px) {
       #article-inquiry #pictures {
         max-width: 639px;
-        display: none; } 
+        height: auto;
+      display: none; } 
+      #article-inquiry #pictures ul {
+        display: flex;
+        justify-content: center;
       }
+      #article-inquiry #pictures li {
+        list-style: none;
+      }
+      #article-inquiry #pictures li:nth-child(2) {
+        margin: 0 10px;
+      }
+      #article-inquiry #pictures img {
+        max-width: 70%;
+        height: auto;
+      }
+    }
+    */
 
 #article-credit {
   color: #fff;
