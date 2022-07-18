@@ -292,7 +292,7 @@ body {
 
 #article-inquiry {
   /* height: 600px; */
-  background-image: url(../img/manipulator.jpg);
+  /*background-image: url(../img/manipulator.jpg); */
   background-size: cover;
   background-position: center; }
   @media screen and (max-width: 640px) {
