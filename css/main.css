@@ -424,7 +424,6 @@ body {
 .time-table {
   border-collapse: separate;
   border-spacing: 0px 5px;
-  margin-left: 10px; 
   margin-top: 10px; 
   margin-bottom: 30px; 
 }
@@ -436,7 +435,7 @@ body {
   .time-table td.time {
     text-align: left;
     vertical-align: top;
-    width: 110px;
+    width: 20%;
     }
   .time-table td.title {
     min-width: 100px;
