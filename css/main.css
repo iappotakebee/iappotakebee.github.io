@@ -317,9 +317,6 @@ body {
       height: 460px; }
   #article-inquiry #pictures {
     text-align: center; }
-    @media screen and (max-width: 639px) {
-      #article-inquiry #pictures {
-        display: none; } }
     #article-inquiry #pictures ul {
       display: flex;
       justify-content: center;
@@ -333,6 +330,11 @@ body {
     #article-inquiry #pictures img {
       width: 100%;
     }
+    @media screen and (max-width: 639px) {
+      #article-inquiry #pictures {
+        max-width: 639px;
+        display: none; } 
+      }
 
 #article-credit {
   color: #fff;
