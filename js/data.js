@@ -96,7 +96,7 @@ var data_awards = [
 
 {"name": "JSPE2017", "affiliation": " JSPE (Japan Society of Precision Engineering), Japan", "month": "September", "year": "2017", "endperiod": "", "title": "JSPE Autumn Annual Meeting 2017 Best Presentation Award", "summary": "", "period": "", "amount": "", "comment":"45 in 450", "type": "Conference", "url": "https://www.jspe.or.jp/wp/wp-content/uploads/jspe_meeting/BP.pdf"},
 
-{"name": "Techno-Edge", "affiliation": "The University of Tokyo, Japan", "month": "August", "year": "2016", "endperiod": "", "title": "Third prize in Techno-Edge Grand Prix at Faculty of Engineering", "summary": "", "period": "", "amount": "", "comment":"3rd of 23", "type": "School-event competition", "url": "http://www.pe.t.u-tokyo.ac.jp/news/2016/20160819.html"},
+{"name": "Techno-Edge", "affiliation": "Tei-yu-kai, Faculty of Engineering, The University of Tokyo, Japan", "month": "August", "year": "2016", "endperiod": "", "title": "Third prize in Techno-Edge Grand Prix at Faculty of Engineering", "summary": "", "period": "", "amount": "", "comment":"3rd of 23", "type": "School-event competition", "url": "http://www.pe.t.u-tokyo.ac.jp/news/2016/20160819.html"},
 ];
 
 
