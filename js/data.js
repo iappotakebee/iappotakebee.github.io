@@ -101,7 +101,7 @@ var data_awards = [
 
 
 var data_resgrnt = [
-{"name": "KAKENHI2020", "affiliation": "JSPS (Japan Society for the Promotion of Science), Japan", "month": "April", "year": "2020", "endperiod": " - Present", "title": "Grant-inAid for JSPS Fellows Grant Number 20J21562", "summary": "", "period": "3 years", "amount": "3.1M JPY", "comment":"", "type": "", "url": ""},
+{"name": "KAKENHI2020", "affiliation": "JSPS (Japan Society for the Promotion of Science), Japan", "month": "April", "year": "2020", "endperiod": " - Present", "title": "Grant-inAid for JSPS Fellows Grant Number 20J21562", "summary": "", "period": "3 years", "amount": "3.1M JPY", "comment":"", "type": "", "url": "https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-20J21562/"},
 ];
 
 var data_synchroradleader = [
@@ -131,7 +131,7 @@ var data_synchroradmember = [
 var data_resflw = [
 {"name": "SPIE2022", "affiliation": "SPIE (Society of Photo-Optical Instrumentation Engineers), USA", "month": "August", "year": "2022", "endperiod": "", "title": "SPIE Optics + Photonics 2022 Student Conference Support", "summary": "", "period": "", "amount": "1000USD", "comment":"", "type": "", "url": ""},
 
-{"name": "JSPS2020", "affiliation": "JSPS (Japan Society for the Promotion of Science), Japan", "month": "April", "year": "2020", "endperiod": " - Present", "title": "Research Fellowship for Young Scientists DC1", "summary": "", "period": "3 years", "amount": "7.2M JPY", "comment":"", "type": "", "url": ""},
+{"name": "JSPS2020", "affiliation": "JSPS (Japan Society for the Promotion of Science), Japan", "month": "April", "year": "2020", "endperiod": " - Present", "title": "Research Fellowship for Young Scientists DC1", "summary": "", "period": "3 years", "amount": "7.2M JPY", "comment":"122 in 616", "type": "", "url": "https://www.jsps.go.jp/j-pd/data/saiyo_ichiran/r02/dc1/r2_dc1.pdf"},
 
 {"name": "WINGS2019", "affiliation": "WINGS-iFS (World-leading Innovative Graduate Study Program - innovations for Future Society),", "month": "April", "year": "2019", "endperiod": " - March 2020", "title": "Research Fellowship for WINGS Research Assistants", "summary": "", "period": "1 year", "amount": "2.16M JPY", "comment":"", "type": "", "url": ""},
 ];
@@ -147,7 +147,7 @@ var data_scholarships = [
 
 {"name": "UT2021S", "affiliation": "The University of Tokyo, Japan", "month": "August", "year": "2021", "endperiod": "", "title": "Tuition exemptions for the first payment semester", "summary": "", "period": "", "amount": "0.2604M JPY", "comment":"", "type": "", "url": ""},
 
-{"name": "JSPS2021", "affiliation": "JSPS (Japan Society for the Promotion of Science), Japan", "month": "April", "year": "2021", "endperiod": "", "title": "Overseas Challenge Program for Young Researchers (FY2019-2)", "summary": "", "period": "1 year", "amount": "1.4M JPY + 0.2M JPY research fees", "comment":"", "type": "", "url": ""},
+{"name": "JSPS2021", "affiliation": "JSPS (Japan Society for the Promotion of Science), Japan", "month": "April", "year": "2021", "endperiod": "", "title": "Overseas Challenge Program for Young Researchers (FY2019-2)", "summary": "", "period": "1 year", "amount": "1.4M JPY + 0.2M JPY research fees", "comment":"", "type": "", "url": "https://www.jsps.go.jp/j-abc/R2.html"},
 
 {"name": "G72021", "affiliation": "G-7 Scholarship Foundation, Japan", "month": "April", "year": "2021", "endperiod": " - March 2022", "title": "Scholarship", "summary": "", "period": "1 year", "amount": "1.2M JPY", "comment":"55 in 512", "type": "", "url": ""},
 
