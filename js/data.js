@@ -84,7 +84,7 @@ var data_miscart = [
 ];
 
 var data_awards = [
-{"name": "HIRAKU", "affiliation": "HIRAKU (Home for Innovative Researchers and Academic Knowledge Users), Japan", "month": "November", "year": "2021", "endperiod": "", "title": "Winner of HIRAKU 3MT Competition 2021 English Division", "summary": "", "period": "", "amount": "", "comment":"1 in 130", "type": "Competition in Japan", "url": "https://hiraku.hiroshima-u.ac.jp/en/event/competition_2021/report/"},
+{"name": "HIRAKU", "affiliation": "HIRAKU (Home for Innovative Researchers and Academic Knowledge Users), Japan", "month": "November", "year": "2021", "endperiod": "", "title": "Winner of HIRAKU 3MT Competition 2021 English Division", "summary": "", "period": "", "amount": "", "comment":"1 in 130", "type": "Competition in Japan", "url": "https://hiraku.hiroshima-u.ac.jp/en/event_fy2021/competition_2021/report/"},
 
 {"name": "JSPE2021", "affiliation": "JSPE (Japan Society of Precision Engineering), Japan ", "month": "September", "year": "2021", "endperiod": "", "title": "JSPE Autumn Annual Meeting 2021 Advanced Best Presentation Award", "summary": "", "period": "", "amount": "", "comment":"6 in 328", "type": "Conference", "url": "https://www.jspe.or.jp/wp/wp-content/uploads/jspe_meeting/BP.pdf"},
 
@@ -141,7 +141,7 @@ var data_scholarships = [
 
 {"name": "HEAS2022", "affiliation": "Foundation for High Energy Accelerator Science, Japan", "month": "January", "year": "2022", "endperiod": "", "title": "Overseas exchange support", "summary": "", "period": "", "amount": "0.2M JPY", "comment":"", "type": "", "url": "https://www.heas.jp/lecture/fas/fas2022.8%20no.24.pdf"},
 
-{"name": "HIRAKU2021", "affiliation": "HIRAKU (Home for Innovative Researchers and Academic Knowledge Users), Japan", "month": "November", "year": "2021", "endperiod": "", "title": "Prize for the Winner of HIRAKU 3MT Competition 2021 English Division", "summary": "", "period": "", "amount": "0.3M JPY", "comment":"", "type": "", "url": "https://hiraku.hiroshima-u.ac.jp/en/event/competition_2021/report/"},
+{"name": "HIRAKU2021", "affiliation": "HIRAKU (Home for Innovative Researchers and Academic Knowledge Users), Japan", "month": "November", "year": "2021", "endperiod": "", "title": "Prize for the Winner of HIRAKU 3MT Competition 2021 English Division", "summary": "", "period": "", "amount": "0.3M JPY", "comment":"", "type": "", "url": "https://hiraku.hiroshima-u.ac.jp/en/event_fy2021/competition_2021/report/"},
 
 {"name": "UTEC2021", "affiliation": "The University of Tokyo Edge Capital Partners Co., Ltd., Japan", "month": "November", "year": "2021", "endperiod": "", "title": "UTEC Scholarships for the Univerity of Tokyo", "summary": "", "period": "", "amount": "0.1M JPY", "comment":"", "type": "", "url": ""},
 
