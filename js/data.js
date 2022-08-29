@@ -70,7 +70,7 @@ var data_outreach = [
 ];
 
 var data_miscart = [
-{"name": "島村 勇徳", "affiliation": "公益財団法人高エネルギー加速器科学研究奨励会", "number": "", "page": "FASだより8月号 国際交流助成報告記事", "year": "2022", "title": "X線1 nm集光ビームのためのミリサイズ小型多層膜ミラーの検討及び作製", "summary": "", "type": "Report", "url": ""},
+{"name": "島村 勇徳", "affiliation": "公益財団法人高エネルギー加速器科学研究奨励会", "number": "", "page": "FASだより8月号 国際交流助成報告記事", "year": "2022", "title": "X線1 nm集光ビームのためのミリサイズ小型多層膜ミラーの検討及び作製", "summary": "", "type": "Report", "url": "https://www.heas.jp/lecture/fas/fas2022.8%20no.24.pdf", "availability": "article"},
 
 {"name": "島村 勇徳", "affiliation": "HIRAKU-Global", "number": "", "page": "広報誌コメント2022年3月, 45 - 46", "year": "2022", "title": "未来博士3分間コンペティション2021", "summary": "", "type": "Comment", "url": "www.hiroshima-u.ac.jp/system/files/182992/HIRAKU-Global_Newsletter_Vol.3_FY2021.pdf", "availability": "article"},
 
