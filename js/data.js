@@ -139,7 +139,7 @@ var data_resflw = [
 var data_scholarships = [
 {"name": "UT2021A", "affiliation": "The University of Tokyo, Japan", "month": "January", "year": "2022", "endperiod": "", "title": "Tuition exemptions for the second payment semester", "summary": "", "period": "", "amount": "0.2604M JPY", "comment":"", "type": "", "url": ""},
 
-{"name": "HEAS2022", "affiliation": "Foundation for High Energy Accelerator Science, Japan", "month": "January", "year": "2022", "endperiod": "", "title": "Overseas exchange support", "summary": "", "period": "", "amount": "0.2M JPY", "comment":"", "type": "", "url": ""},
+{"name": "HEAS2022", "affiliation": "Foundation for High Energy Accelerator Science, Japan", "month": "January", "year": "2022", "endperiod": "", "title": "Overseas exchange support", "summary": "", "period": "", "amount": "0.2M JPY", "comment":"", "type": "", "url": "https://www.heas.jp/lecture/fas/fas2022.8%20no.24.pdf"},
 
 {"name": "HIRAKU2021", "affiliation": "HIRAKU (Home for Innovative Researchers and Academic Knowledge Users), Japan", "month": "November", "year": "2021", "endperiod": "", "title": "Prize for the Winner of HIRAKU 3MT Competition 2021 English Division", "summary": "", "period": "", "amount": "0.3M JPY", "comment":"", "type": "", "url": ""},
 
