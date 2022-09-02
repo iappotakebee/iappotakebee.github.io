@@ -90,9 +90,9 @@ var data_awards = [
 
 {"name": "JSRRR2021", "affiliation": "JSRRR  (Japan Society for Synchrotron Radiation Research), Japan ", "month": "January", "year": "2021", "endperiod": "", "title": "JSR2021 Student Best Presentation Award", "summary": "", "period": "", "amount": "", "comment":"6 in 66", "type": "Conference", "url": "http://www.jssrr.jp/jsr2021/award.html"},
 
-{"name": "Dean2020", "affiliation": "The University of Tokyo, Japan", "month": "March", "year": "2020", "endperiod": "", "title": "Dean’s Award for Master’s Students AY2019", "summary": "", "period": "", "amount": "", "comment":"1 in 60, top of the Department graduates", "type": "University award", "url": ""},
+{"name": "Dean2020", "affiliation": "The University of Tokyo, Japan", "month": "March", "year": "2020", "endperiod": "", "title": "Dean’s Award for Master’s Students AY2019", "summary": "", "period": "", "amount": "", "comment":"1 in 60, top of the Department graduates through the 2-year-long curriculum", "type": "University award", "url": ""},
 
-{"name": "Dean2018", "affiliation": "The University of Tokyo, Japan", "month": "March", "year": "2018", "endperiod": "", "title": "Dean’s Award for The Best Undergraduate Student AY2017", "summary": "", "period": "", "amount": "", "comment":"1 in 987, top of the Engineering graduates", "type": "University award", "url": "http://www.t.u-tokyo.ac.jp/en/topics/foee/topics/setnws_201803221337517522743951.html"},
+{"name": "Dean2018", "affiliation": "The University of Tokyo, Japan", "month": "March", "year": "2018", "endperiod": "", "title": "Dean’s Award for The Best Undergraduate Student AY2017", "summary": "", "period": "", "amount": "", "comment":"1 in 987, top of the Engineering graduates through the 4-year-long curriculum", "type": "University award", "url": "http://www.t.u-tokyo.ac.jp/en/topics/foee/topics/setnws_201803221337517522743951.html"},
 
 {"name": "JSPE2017", "affiliation": " JSPE (Japan Society of Precision Engineering), Japan", "month": "September", "year": "2017", "endperiod": "", "title": "JSPE Autumn Annual Meeting 2017 Best Presentation Award", "summary": "", "period": "", "amount": "", "comment":"45 in 450", "type": "Conference", "url": "https://www.jspe.or.jp/wp/wp-content/uploads/jspe_meeting/BP.pdf"},
 
