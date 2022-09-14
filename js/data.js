@@ -137,7 +137,7 @@ var data_resflw = [
 ];
 
 var data_scholarships = [
-{"name": "Tomiyama2022", "affiliation": "TOMIYAMA CULTURAL FOUNDATION, Japan", "month": "April", "year": "2022", "endperiod": " - March 2023", "title": "Scholarship", "period": "1 year", "summary":"", "amount": "0.30M JPY", "comment":"", "type": "", "url": ""},
+{"name": "Tomiyama2022", "affiliation": "Tomiyama Cultural Foundation, Japan", "month": "April", "year": "2022", "endperiod": " - March 2023", "title": "Scholarship", "period": "1 year", "summary":"", "amount": "0.30M JPY", "comment":"", "type": "", "url": ""},
 
 {"name": "UT2021B", "affiliation": "The University of Tokyo, Japan", "month": "August", "year": "2022", "endperiod": "", "title": "Tuition exemptions for the first payment semester", "summary": "", "period": "", "amount": "0.2604M JPY", "comment":"", "type": "", "url": ""},
 
