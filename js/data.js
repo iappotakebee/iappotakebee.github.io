@@ -4,6 +4,8 @@ var data_journal = [
 ];
 
 var data_proc = [
+{"name": "T. Shimamura, Y. Takeo, F. Moriya, T. Kimura, M. Shimura, Y. Senba, H. Kishimoto, H. Ohashi, K. Shimba, Y. Jimbo, H. Mimura", "affiliation": "Proc. SPIE", "issue": "12240", "page": "1224004", "year": "2022", "title": "Design of soft x-ray fluorescence microscopy beyond 100-nm spatial resolution with ultrashort Kirkpatrick-Baez mirror", "summary": "", "url": "doi.org/10.1117/12.2632949"},
+
 {"name": "S. Yokomae, Y. Takeo, T. Shimamura, Y. Matsuzawa, T. Kume, Y. Senba, H. Kishimoto, H. Ohashi, H. Mimura", "affiliation": "Proc. SPIE", "issue": "11837", "page": "1183709", "year": "2021", "title": "Development of figure correction system for axisymmetric x-ray mirrors", "summary": "", "url": "doi.org/10.1117/12.2594523"},
 
 {"name": "T. Shimamura, Y. Takeo, T. Kimura, H. Hashizume, Y. Senba, H. Kishimoto, H. Ohashi, and H. Mimura", "affiliation": "Proc. SPIE", "issue": "11492", "page": "114920P", "year": "2020", "title": "Design of ultrashort Kirkpatrick-Baez mirror for soft x-ray nanofocusing", "summary": "", "url": "doi.org/10.1117/12.2569845"},
@@ -18,6 +20,8 @@ var data_patent = [
 ];
  
 var data_interconf = [
+{"name": "*T. Shimamura, Y. Takeo, F. Moriya, T. Kimura, M. Shimura, Y. Senba, H. Kishimoto, H. Ohashi, K. Shimba, Y. Jimbo, and H. Mimura ", "affiliation": "Advances in X-Ray/EUV Optics and Components XVII, SPIE Optical Engineering + Applications, SPIE Optical Engineering + Applications, 2022", "number": "1224004,", "page": "San Diego, California, United States, August 20 – 24", "year": "2022", "title": "Design of soft x-ray fluorescence microscopy beyond 100-nm spatial resolution with ultrashort Kirkpatrick-Baez mirror", "summary": "", "type": "Presentation, refereed", "url": "doi.org/10.1117/12.2632949", "availability": "video playback"},
+
 {"name": "*T. Shimamura, Y. Takeo, T. Kimura, M. Shimura, Y. Senba, H. Kishimoto, H. Ohashi, and H. Mimura", "affiliation": "XOPT2022 (International Conference on X-ray Optics and Application), OPIC2022 (OPTICS & PHOTONICS International Congress 2022)", "number": "XOPT13-02,", "page": "Online + Yokohama, Kanagawa, Japan, April 19 – 21", "year": "2022", "title": "Development of ultrashort Kirkpatrick-Baez mirrors for sub-50-nm achromatic soft-X-ray probes", "summary": "", "type": "Presentation"},
 
 {"name": "*T. Shimamura, Y. Takeo, T. Kimura, Y. Senba, H. Kishimoto, H. Ohashi, and H. Mimura", "affiliation": "IWXM 2022 (7th International Workshop on Metrology for X-ray Optics, Mirror Design and Fabrication)", "number": "PS02/04_P26,", "page": "Online only, August April 5 – 8", "year": "2022", "title": "Design, fabrication, and testing of 2-mm-long X-ray mirrors for soft-X-ray nanofocusing", "summary": "", "type": "Poster"},
