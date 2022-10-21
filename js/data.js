@@ -56,7 +56,7 @@ var data_jpnconf = [
 
 {"name": "*島村 勇徳, 三村 秀和", "affiliation": "2019年度精密工学会春季大会学術講演会", "number": "2019年度精密工学会春季大会学術講演会講演論文集, 764-765,", "page": "東京電機大学 東京千住キャンパス, 2019年3月15日-17日", "year": "2019", "title": "小型Kirkpatrick-Baezミラー光学系によるX線ナノ集光システムの開発：軟X線用小型楕円筒面ミラーの作製", "summary": "", "type": "Presentation", "url": "doi.org/10.11522/pscjspe.2019S.0_764", "availability": "proceeding"},
 
-{"name": "*島村 勇徳, 三村 秀和", "affiliation": "日本光学会年次学術講演会", "number": "2018年度日本光学会年次学術講演会講演予稿集, 1pP11,", "page": "2018年10月30日-11月2日", "year": "2018", "title": "小型Kirkpatrick-Baezミラー光学系によるX線ナノ集光システムの開発―小型楕円筒面ミラーの作製と形状評価―,", "summary": "", "type": "Poster", "url": ""},
+{"name": "*島村 勇徳, 三村 秀和", "affiliation": "日本光学会年次学術講演会", "number": "2018年度日本光学会年次学術講演会講演予稿集, 1pP11,", "page": "筑波大学東京キャンパス文京校舎, 2018年10月30日-11月2日", "year": "2018", "title": "小型Kirkpatrick-Baezミラー光学系によるX線ナノ集光システムの開発―小型楕円筒面ミラーの作製と形状評価―", "summary": "", "type": "Poster", "url": ""},
 
 {"name": "*島村 勇徳, 本山 央人, 松澤 雄介, 西岡 勇人, 三村 秀和", "affiliation": "2017年度精密工学会春季大会学術講演会", "number": "2017年度精密工学会春季大会学術講演会講演論文集, 599-600,", "page": "中央大学, 2018年3月15日-17日", "year": "2018", "title": "X線集光用超小型KBミラーのための作製・計測プロセスの開発", "summary": "", "type": "Presentation", "url": "doi.org/10.11522/pscjspe.2018S.0_599", "availability": "proceeding"},
 
