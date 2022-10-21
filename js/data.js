@@ -80,7 +80,7 @@ var data_miscart = [
 
 {"name": "T. Shimamura", "affiliation": "nature asia", "number": "Press Release,", "page": "November 24, 2021", "year": "2021", "title": "From oral health for children to X-ray technology to visualize atoms - announcing the winners of the HIRAKU Three Minute Thesis Competition 2021", "summary": "", "type": "Comment", "url": "www.natureasia.com/en/info/press-releases/detail/8873", "availability": "article"},
 
-{"name": "島村勇徳", "affiliation": "Natureダイジェスト", "number": "18,", "page": "(12), 18 – 19, 2021年12月", "year": "2021", "title": "未来の博士たちによる3分間の熱闘！", "summary": "", "type": "Comment", "url": "10.1038/ndigest.2021.211219", "availability": "article"},
+{"name": "島村勇徳", "affiliation": "Natureダイジェスト", "number": "18,", "page": "(12), 18 – 19, 2021年12月", "year": "2021", "title": "未来の博士たちによる3分間の熱闘！", "summary": "", "type": "Comment", "url": "doi.org/10.1038/ndigest.2021.211219", "availability": "article"},
 
 {"name": "島村 勇徳", "affiliation": "SPRINGER NATURE", "number": "プレスリリース,", "page": "コメント2021年11月4日", "year": "2021", "title": "子供たちのお口の健康からレントゲン写真で原子が見える技術まで－「未来博士３分間コンペティション2021」（未来を拓く地方協奏プラットフォーム（HIRAKU）主催）の受賞者を発表", "summary": "", "type": "Comment", "url": "www.springernature.com/br/20211124-pr-hiraku-3mt-winners-jp/19887924", "availability": "article"},
 
