@@ -1,6 +1,10 @@
 var data_journal = [
-{"name": "Y. Takeo, H. Motoyama, T. Shimamura, T. Kimura, T. Kume, Y. Matsuzawa, T. Saito, Y. Imamura, H. Miyashita, K. Hiraguri, H. Hashizume, Y. Senba, H. Kishimoto, H. Ohashi, and H. Mimura", "affiliation": "Appl. Phys. Lett.", "issue": "117", "page": "151104", "year": "2020", "title": "A highly efficient nanofocusing system for soft x rays", 
-"summary": "", "url": "doi.org/10.1063/5.0027118"},
+
+{"name": "T. Shimamura, Y. Takeo, T. Kimura, F. Perrin, A. Vivo, Y. Senba, H. Kishimoto, H. Ohashi, and H. Mimura", "affiliation": "Rev. Sci. Instrum.", "issue": "94", "page": "043102", "year": "2023", "title": "Fabrication of ultrashort sub-meter-radius x-ray mirrors using dynamic stencil deposition with figure correction", "summary": "", "url": "doi.org/10.1063/5.0135367"},
+
+{"name": "S. Yokomae, Y. Takeo, T. Shimamura, Y. Senba, H. Kishimoto, H. Ohashi, and H. Mimura", "affiliation": "Rev. Sci. Instrum.", "issue": "94", "page": "015106", "year": "2023", "title": "Abrasive slurry jet machining system using polyurethane@silica core–shell particles for internal surfaces of axisymmetric x-ray mirrors", "summary": "", "url": "doi.org/10.1063/5.0125242"},
+
+{"name": "Y. Takeo, H. Motoyama, T. Shimamura, T. Kimura, T. Kume, Y. Matsuzawa, T. Saito, Y. Imamura, H. Miyashita, K. Hiraguri, H. Hashizume, Y. Senba, H. Kishimoto, H. Ohashi, and H. Mimura", "affiliation": "Appl. Phys. Lett.", "issue": "117", "page": "151104", "year": "2020", "title": "A highly efficient nanofocusing system for soft x rays", "summary": "", "url": "doi.org/10.1063/5.0027118"},
 ];
 
 var data_proc = [
