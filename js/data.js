@@ -68,6 +68,8 @@ var data_jpnconf = [
 ];
 
 var data_outreach = [
+{"name": "島村 勇徳", "affiliation": "東京大学工学部・大学院工学系研究科", "number": "", "page": "東京大学工学部・大学院工学系研究科YouTubeチャンネル", "year": "2023", "title": "原子を見通す「目」を創る / 'Chest X-Ray' Technology with Atomic-Scale Resolution", "summary": "", "type": "Interview", "url": "www.youtube.com/watch?v=41v-6dHWQKA", "availability": "video playback"},
+
 {"name": "*T. Shimamura", "affiliation": "HIRAKU 3MT Competition 2021 English Division", "number": "", "page": "November 3, 2021 (Winner)", "year": "2021", "title": "Atomic-scale “chest X-rays” with ultrasmall mirrors", "summary": "", "type": "Presentation", "url": "youtu.be/QiAjXKsTg14?t=24", "availability": "video playback"},
 
 {"name": "*T. Shimamura", "affiliation": "UTokyo Three Minute Thesis (3MT) competition", "number": "", "page": "July 17, 2021 (Finalist)", "year": "2021", "title": "Race to the smallest X-ray nanoprobe: developing a novel X-ray focusing device", "summary": "", "type": "Presentation", "url": "www.youtube.com/watch?v=L7wt2Nes07M", "availability": "video playback"},
@@ -78,7 +80,6 @@ var data_outreach = [
 ];
 
 var data_miscart = [
-{"name": "島村 勇徳", "affiliation": "東京大学工学部・大学院工学系研究科", "number": "", "page": "東京大学工学部・大学院工学系研究科YouTubeチャンネル", "year": "2023", "title": "原子を見通す「目」を創る / 'Chest X-Ray' Technology with Atomic-Scale Resolution", "summary": "", "type": "Interview", "url": "www.youtube.com/watch?v=41v-6dHWQKA", "availability": "video playback"},
 
 {"name": "島村 勇徳", "affiliation": "公益財団法人高エネルギー加速器科学研究奨励会", "number": "", "page": "FASだより8月号 国際交流助成報告記事", "year": "2022", "title": "X線1 nm集光ビームのためのミリサイズ小型多層膜ミラーの検討及び作製", "summary": "", "type": "Report", "url": "www.heas.jp/lecture/fas/fas2022.8%20no.24.pdf", "availability": "article"},
 
