@@ -1,5 +1,7 @@
 var data_journal = [
 
+{"name": "T. Shimamura, Y. Takeo, T. Kimura, Y. Senba, H. Kishimoto, H. Ohashi, and H. Mimura", "affiliation": "Opt. Express", "issue": "31", "page": "38132-38145", "year": "2023", "title": "Soft-X-ray nanobeams formed by aberration-reduced elliptical mirrors with large numerical aperture", "summary": "", "url": "doi.org/10.1364/OE.502692"},
+
 {"name": "T. Shimamura, Y. Takeo, T. Kimura, F. Perrin, A. Vivo, Y. Senba, H. Kishimoto, H. Ohashi, and H. Mimura", "affiliation": "Rev. Sci. Instrum.", "issue": "94", "page": "043102", "year": "2023", "title": "Fabrication of ultrashort sub-meter-radius x-ray mirrors using dynamic stencil deposition with figure correction", "summary": "", "url": "doi.org/10.1063/5.0135367"},
 
 {"name": "S. Yokomae, Y. Takeo, T. Shimamura, Y. Senba, H. Kishimoto, H. Ohashi, and H. Mimura", "affiliation": "Rev. Sci. Instrum.", "issue": "94", "page": "015106", "year": "2023", "title": "Abrasive slurry jet machining system using polyurethane@silica core–shell particles for internal surfaces of axisymmetric x-ray mirrors", "summary": "", "url": "doi.org/10.1063/5.0125242"},
